@@ -1,0 +1,28 @@
+READ ME FILE....
+
+
+The IDEJS.JS file contains several java script routines for
+use with the Selenium IDE.
+
+To use the java script routines contained in the IDEJS.JS file
+within the Selenium IDE 
+
+    1) Open up the Selenium IDE
+    2) Select  < Options >
+    3) Select  < Options >
+    4) Next to the Selenium Core Extension select < Browse >
+    5) Pick the < IDEJS.JS > file
+    6) Exit Selenium IDE
+    7) Open up the Selenium IDE
+    
+The java script routines are now loaded into the Selenium
+IDE and ready for use.
+
+Please see the notes at the begining of each of the java 
+script routines.  They explain in detail what each routine
+does, parms passed, etc...
+
+Please don't hesitate to email any questions
+    Mark.Heilman@gmail.com
+    
+Happy Typing Stuff.....
